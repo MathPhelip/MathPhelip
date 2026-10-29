@@ -5,11 +5,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4460-4502)
 [![Lattes CV](https://img.shields.io/badge/Lattes_CV-183153?style=flat-square&logo=academia&logoColor=white)](https://lattes.cnpq.br/3327661096350339)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathPhelip&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathPhelip&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200" alt="Top Languages" />
-</p>
-
 ---
 
 ### About Me
