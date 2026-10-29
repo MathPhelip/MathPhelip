@@ -19,7 +19,7 @@ I focus on bridging first-principles mathematical modeling with scalable numeric
 
 | Research Area | Methodology & Technical Scope |
 | :--- | :--- |
-| **Generative AI for Seismic Geophysics** | Domain translation between Distributed Acoustic Sensing (**DAS** across straight, helical, and hybrid fiber-optic cable geometries) and multicomponent Ocean Bottom Node (**OBN**) seismic data using **DDPM** and **Cold Diffusion** architectures in PyTorch, integrated with Optuna Bayesian optimization. |
+| **Generative AI for Seismic Geophysics** | Domain translation between Distributed Acoustic Sensing (**DAS** across straight, helical, and hybrid fiber-optic cable geometries) and multicomponent Ocean Bottom Node (**OBN**) seismic data using generative models architectures in PyTorch, integrated with Optuna Bayesian optimization. |
 | **Numerical Wave Propagation** | High-performance 2D elastic wave equation solvers in **Julia** using staggered-grid finite differences, fluid-solid interface coupling, RTM migration, and synthetic seismic dataset generation. |
 | **Theoretical Condensed Matter Physics** | Parallelized impurity concentration inversion and electronic transport simulations in large-scale hexagonal graphene flakes via the **Recursive Green's Function (RGF)** method and **Landauer-Büttiker** formalism. |
 | **Seismic Signal Processing** | 2D seismic data interpolation and regularization via *Matching Pursuit Fourier Interpolation* (**MPFI**) and spectral analysis. |
