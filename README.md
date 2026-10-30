@@ -38,7 +38,7 @@ I focus on bridging first-principles mathematical modeling with scalable numeric
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy_/_NumPy-013243?style=flat-square&logo=scipy&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-0052CC?style=flat-square)
-![PennyLane](https://img.shields.io/badge/PennyLane_/_Qiskit-6929C4?style=flat-square)
+![PennyLane](https://img.shields.io/badge/PennyLane-6929C4?style=flat-square)
 
 **HPC Infrastructure & DevOps**  
 ![Slurm](https://img.shields.io/badge/Slurm_HPC-2496ED?style=flat-square&logo=linux&logoColor=white)
