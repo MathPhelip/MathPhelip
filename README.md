@@ -1,7 +1,7 @@
 # Matheus Felipe Freitas Tomaz
 ### PhD Candidate in Physics (PPGF/UFRN)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-felipe-freitas-tomaz-452b47304)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-felipe-freitas-tomaz-452b47304)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4460-4502)
 [![Lattes CV](https://img.shields.io/badge/Lattes_CV-183153?style=flat-square&logo=academia&logoColor=white)](https://lattes.cnpq.br/3327661096350339)
 
