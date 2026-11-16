@@ -58,4 +58,4 @@ I focus on bridging first-principles mathematical modeling with scalable numeric
 
 ---
 
-> 🔒 **Note on Private Repositories:** Several active research codebases and simulation pipelines are hosted in private repositories while manuscripts are under preparation or peer review. Pinned repositories below highlight selected public modules, documentation, and methodological overviews. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/SEU_LINK_AQUI) for academic collaborations.
+> 🔒 **Note on Private Repositories:** Several active research codebases and simulation pipelines are hosted in private repositories while manuscripts are under preparation or peer review. Pinned repositories below highlight selected public modules, documentation, and methodological overviews. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/matheus-felipe-freitas-tomaz-452b47304) for academic collaborations.
